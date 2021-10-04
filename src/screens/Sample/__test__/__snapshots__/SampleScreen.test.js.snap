@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sample container should render 1`] = `
+<div>
+  <div>
+    <h1>
+      Home Page
+    </h1>
+    <div>
+      <ul />
+    </div>
+    <button
+      class="c-a-button c-a-button--size-md c-a-button--primary"
+      id="btnContinue"
+    >
+      <span
+        class="c-a-button__title"
+      >
+        Continue
+      </span>
+    </button>
+  </div>
+</div>
+`;
